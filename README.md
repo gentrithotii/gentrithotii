@@ -9,11 +9,11 @@
 
 ---
 ### 🏫 **Education**
-- 🎓 **System Development**  
-  Completed a **2-year program** at **Borås Yrkeshögskola**, From 2021 September to June 2023.
+- 🎓 **.Net Fullstack Development**  
+  Completed a **2 year program** at **Borås Yrkeshögskola**, From 2021 September to June 2023.
   
-- 📚 **Java Full-Stack Development**  
-  Currently pursuing the **Java Fullstack Developer** course to further enhance my skills.
+- 📚 **Java FullStack Development**  
+  Completed a **1 year program** at **Lexicon Java Fullstack Developer** course to further enhance my skills.
 
 ---
 
